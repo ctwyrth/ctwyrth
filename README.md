@@ -1,8 +1,15 @@
 - 👋 Hi, I’m Thomas!
+
 - 👀 I’m interested in Marvel Comics and the Cinematic Universe, Star Wars in all its iterations, Legos, WoW, gaming, cooking, eating, happy music, and singing out loud badly!
-- 🌱 I’m currently learning to code.... software develop... web develop, it's all a little muddled at this point, isn't it?
-- 💞️ I’m looking to collaborate on anything that can help reinforce the skills I'm learning and that will hopefully make me more appealing to an employer.
+
+- 🌱 I’m currently a freelance coder.... software developer... web developer, it's all a little muddled at this point, isn't it?
+
+- 💞️ I’m looking for work/projects to reinforce my coding aptitudes and gain new proficiencies.
+
 - 📫 How to reach me... mmxvi.ctw@gmail.com
+
+![Github_logo](https://user-images.githubusercontent.com/96929397/169216986-264432b0-0b5c-4ffd-a68f-09d272e5d001.png)
+
 
 <!---
 ctwyrth/ctwyrth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
