@@ -9,7 +9,7 @@
 - 📫 How to reach me... mmxvi.ctw@gmail.com
 
 
-
+## TECHNICAL SKILLS ##
 
 <!---
 ctwyrth/ctwyrth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
