@@ -8,7 +8,7 @@
 
 - 📫 How to reach me... mmxvi.ctw@gmail.com
 
-![Github_logo](https://user-images.githubusercontent.com/96929397/169216986-264432b0-0b5c-4ffd-a68f-09d272e5d001.png)
+
 
 
 <!---
